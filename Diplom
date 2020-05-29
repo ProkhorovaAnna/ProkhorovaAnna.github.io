@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+< html  lang = "ru" >
+
+< голова>
+  < meta  charset = "utf-8" >
+  < meta  name = "viewport" content = "width=device-width, initial-scale=1, shrink-to-fit=no" >
+  < meta  name = "description" content = "Cuda" >
+  < title > > Cuda< / title>
+  < link  href = " css / bootstrap.css "rel = " таблица стилей" >
+  < link  href = " css / style.css "rel = " таблица стилей" >
+  < link  href = " img / favicon.ico "rel =" icon "type =" image / x-icon" />
+  < link  href = " img / favicon.ico "rel =" ярлык "type =" image / x-icon" />
+< / head>
+
+< body  id = "page-top" class = "text-center" >
+  
+  < заголовок>
+    < div  class = "header" >
+      < div  id = "текст" >
+        < div  class = "контейнер" >
+      < / div>
+    < / div>
+    < div  class = "container text-center" >
+      < nav  class = "navbar navbar-expand-md" id = "mainNav" >
+        < div  class = "контейнер" >
+          < a  class = "navbar-brand js-scroll-trigger main_link" > > < img  src = " img/logo.png " > > < / img> > < / a>
+          <  класс кнопок = "navbar-toggler" тип = "button" data-toggle = "collapse" data-target = " #navbarResponsive"
+            aria-controls = "navbarResponsive" Aria-expanded = "true" aria-label = "переключение навигации" >
+            <  класс span = "navbar-toggler-icon" > > < img  src = " img/Slice_1.png " > > < / img>>< / span>
+          < / button>
+          < div  class = "navbar-свернуть свернуть шоу" id = "navbarResponsive" стиль>
+            < ul  class = "меню navbar-nav ml-auto" >
+              < li> > < a  class = "nav-link js-scroll-trigger "href =" #HOME " > > HOME< / a> > < / li>
+              < li> > < a  class = "nav-link js-scroll-trigger "href =" #услуги, которые мы предоставляем " > > о компании< / a > > </ li>
+              < li> > < a  class = "nav-link js-scroll-trigger "href =" #у нас есть навыки!">>Работа< / a> > < / li>
+              < li> > < a  class = "nav-link js-scroll-trigger "href =" #наше портфолио " > > блог< / a> > < / li>
+              < li> > < a  class = "nav-link js-scroll-trigger "href =" #GET in TOUCH " > > CONTACT< / a>>< / li>
+            < / ul>
+          < / div>
+        < / div>
+      < / nav>
+      < div  class = "con1" >
+      < div  class = "text2" >
+        < h1>> Привет всем! Мы-новые дети на блоке < br/>, и мы создаем удивительные веб-сайты и мобильные приложения.< / h1>
+      < / div>
+      < div  class = "prichs-header px-3 py-3 pt-md-5 pb-md-4 mx-авто text-center batt" >
+      < p> > < a  href = "#GET in TOUCH "class =" btn btn-lg btn-secondery " > > работайте с нами!< / a> > < / p>
+      < / div>
+    </div>
+</div>
+  </header>
+
+
+  <section id="SERVICES WE PROVIDE">
+    <div class="section1">
+    <div class="container">
+      <div class="row">
+        <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+          <div class="text12">
+          <h1>SERVICES WE PROVIDE</h1>
+          </div>
+          <div>
+          <h3 class="line1"><hr></h3>
+        </div>
+          <div class="text14">
+          <p>We are working with both individuals and businesses from all over the globe<br/>to create awesome websites and applications.</p>
+        </div>
+    </div>
+        <div class="container1">
+        <div class="row">
+          <div class="col-md-3 i">
+              <p class="i1"><img src="img/5-layers.png"></img></p>
+              <h1 class="text15">BRANDING</h1>
+              <p class="text16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br/>sed diamnonummy nibh.</p>
+          </div>
+          <div class="col-md-3 i">
+            <p class="i1"><img src="img/9-layers.png"></img></p>
+              <h1 class="text15">DESIGN</h1>
+              <p class="text16">Sed ut perspiciatis unde<br/> omnis iste natus error sit<br/>voluptatem</p>
+          </div>
+          <div class="col-md-3 i">
+            <p class="i1"><img src="img//icons/4-layers.png"></img></p>
+              <h1 class="text15">DEVELOPMENT</h1>
+              <p class="text16">At vero eos et accusamus et<br/>iusto odio dignissimos qui<br/>blanditiis praesentium.</p>
+          </div>
+          <div class="col-md-3 i">
+            <p class="i1"><img src="img/11-layers.png"></img></p>
+              <h1 class="text15">ROCKET SCIENCE</h1>
+              <p class="text16">Et harum quidem rerum est<br/>et expedita distinctio. Nam<br/>libero tempore.</p>
+          </div>
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section id="WE GOT SKILLS!">
+    <div class="section2">
+    <div class="container">
+      <div class="row">
+        <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+          <div class="text21">
+          <h1>WE GOT SKILLS!</h1>
+          </div>
+          <div>
+            <h3 class="line2"><hr></h3>
+          </div>
+          <div class="text23"> 
+          <p><b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br/>tempor incididunt ut labore et dolore magna aligua.</b></p>
+        </div>
+      </div>
+    </div>
+
+
+      <div class="container2">
+        <div class="row">
+          <div  class="col-md-3">
+          <div class="imgblock">
+              <img src="img//icons/2-layers.png"><span>90<small><small>%</small></small></span></img>
+              </div>
+              <p class="text24">WEB DESIGN</p>
+          </div>
+          <div class="col-md-3">
+            <div class="imgblock">
+              <img src="img/7.png"><span>75<small><small>%</small></small></span></img>
+              </div>
+              <p class="text24">HTML / CSS</p>
+          </div>
+          <div class="col-md-3">
+            <div class="imgblock">
+              <img src="img/5.png"><span>70<small><small>%</small></small></span></img>
+              </div>
+              <p class="text24">GRAPHIC DESIGN</p>
+          </div>
+          <div class="col-md-3">
+            <div class="imgblock">
+              <img src="img/6.png"><span>85<small><small>%</small></small></span></img>
+              </div>
+              <p class="text24">UI / UX</p>
+          </div>
+        </div>
+    </div>
+    </div>
+  </section>
+
+  <section id="OUR PORTFOLIO">
+    <div class="section3">
+    <div class="container">
+      <div class="row">
+        <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+          <div class="text31">
+          <h1>OUR PORTFOLIO</h1>
+        </div>
+        <div>
+            <h3 class="line3"><hr></h3>
+          </div>
+        <div class="text33"> 
+          <p><b>Negue porro quisquam est, qui dolorem ipsum quia dolor sit amet<br/>consectetur, adipisci velit, sed quia non numquam</b></p>
+        </div>
+        <p class="bat4">
+          <button type="button" class="btn4 btn-primery my-2">ALL</button>
+          <button type="button" class="btn4 btn-primery my-2">WEB </button>
+          <button type="button" class="btn4 btn-primery my-2">APPS</button>
+          <button type="button" class="btn4 btn-primery my-2">ICONS</button>
+        </p>
+      </div>
+
+     
+        <div class="row">
+          <div class="col-md-6">
+              <p class="tel1"><img src="img/1.png"></img></p>
+              <h1 class="text34">ISOMETRIC HERSPECTIVE MOCK-UP</h1>
+          </div>
+          <div class="col-md-6 te2">
+            <p class="tel2"><img src="img/2.png" ></img></p>
+              <h1 class="text34">TIME ZONE APP UI</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+              <p class="tel3"><img src="img/3.png"></img></p>
+              <h1 class="text34">VIRO MEDIA PLAYERS UI</h1>
+          </div>
+          <div class="col-md-6 te4">
+            <p class="tel4"><img src="img/4.png" ></img></p>
+              <h1 class="text34">BLOG/MAGAZINE FLAT UI KIT</h1>
+          </div>
+        </div>
+      <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center  bt2"> 
+        <p>
+          <a href="#" class="btn2 btn-lg btn-secondery">LOAD MORE PROJECTS</a></p>
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section id="GET IN TOUCH">
+    <div class="section4">
+    <div class="container">
+      <div class="row">
+        <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+          <div class="text41">
+          <h1>GET IN TOUCH</h1>
+          </div>
+          <div>
+            <h3 class="line4"><hr></h3>
+          </div>
+        <div class="text43"> 
+          <p>1600 Pennsylvania Ave NW, Washington, DC 20500, United States of America. Tel: (202) 456-1111</p>
+      </div>
+        </div>
+
+      <div class="col-md-10 fo1">
+        <form action="handler.php" method="post">
+          <div class="row">
+            <div class="col-md-6">
+            <input type="text" class="form-control1" placeholder="Your Name*">
+          </div>
+          <div class="col-md-6">
+            <input type="text" class="form-control2" placeholder="Your Email*">
+            </div>
+        </div></form>
+          </div>
+
+          <div class="col-md-10 fo2">  
+        <form action="handler.php" method="post">
+          <div class="row">
+            <textarea placeholder="Your Message*" type="text" class="form-control3"></textarea>
+            </div></form>
+        </div>
+
+
+      <div class="pricihs-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center"> 
+        <p>
+          <a href="#" class="btn3 btn-lg btn-secondery">SEND MESSAGE</a></p>
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+
+  <footer>
+    <div class="footer">
+    <div class="container">
+      <p class="foot2">
+        <a class="foot1" href="http://">Facebook</a>
+        <a class="foot1" href="http://">Twitter</a>
+        <a class="foot1" href="http://">Google+</a>
+        < A  class = "foot1" href = "http: / /" > > Linkedln< / a>
+        < A  class = "foot1" href = "http: / /" > > Behance< / a>
+        < A  class = "foot1" href = "http: / /" > > Dribbble< / a>
+        < A  class = "foot1" href = "http: / /" > > GitHub< / a>
+      < / p>
+    < / div>
+    < / div>
+  < / нижний колонтитул>
+
+
+
+  < скрипт  src = " js / jquery.js " > > < / script>
+  < скрипт  src = " js / bootstrap.пакет.js " > > < / script>
+  < скрипт  src = " js / jquery.ослабление.js " > > < / script>
+  < script  src = " js / script.js " > > < / script>
+
+< / body>
+
+< / html>
